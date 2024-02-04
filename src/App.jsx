@@ -18,7 +18,7 @@ function App() {
       <Increase />
       <Decrease />
       <ToggleTheme></ToggleTheme>
-      <button style={{backgroundColor:'darkgreen', color:'white', padding:'2px',margin:'5px'}} onClick={() => setCount(count + 100)}>Add 100</button>
+      <button style={{backgroundColor:'darkgreen', color:'purple', padding:'2px',margin:'5px'}} onClick={() => setCount(count + 100)}>Add 100</button>
     </div>
 
 
